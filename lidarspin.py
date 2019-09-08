@@ -1,5 +1,5 @@
 #!/usr/bin/python
-WaitTime = 0.001
+WaitTime = 0.008
 import sys
 import time
 import RPi.GPIO as GPIO
